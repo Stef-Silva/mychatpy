@@ -22,10 +22,10 @@ Este código utiliza a Gemini API para interagir com modelos de linguagem e gera
 
 ### 💻 Tutorial: Rodando o Código no Google Colab
 
-1. **Crie um novo notebook** no Google Colab, abra uma nova guia no browser e digite: ***colab.new***.
-2. **Copie o código** do arquivo com a extensao .ipynb no notebook dentro do Google Colab.
-3. **Obtenha uma API Key (ou chave de API)** do Google Studio AI(https://aistudio.google.com/app/prompts/new_chat?hl=pt-br) e insira-a no código substituindo `SECRET_KEY`.
-4. **Execute as células** do notebook em sequência.
+1. **Obtenha uma API Key (ou chave de API)** do Google Studio AI (https://aistudio.google.com/app/prompts/new_chat?hl=pt-br) e gere um API Key;
+2. **Abra o arquivo com a extensao .ipynb** Dentro desse projeto no GitHub clique em MyChatPy.ipynb e clique no botão Open in Colab;
+3. Adicione a API Key clicando no ícone de chave, e em Nome adicione SECRET_KEY e Valor cole a sua API Key, habilite Acesso ao notebook;
+4. **Execute as células** do notebook em sequência;
 5. **Interaja com o modelo**: Envie prompts para gerar texto ou converse com o modelo no chat.
 
 **Divirta-se explorando o poder da IA com o Google Studio AI & Gemini!**
